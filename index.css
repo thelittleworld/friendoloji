@@ -1,0 +1,74 @@
+.body{
+    background-color: black;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    border-style: double;
+    border-color: yellowgreen;
+}
+.baslik{
+    height: 7vw;
+    width: 80%;
+    background-color: cadetblue;
+    font-size: 5vw;
+    margin-top: 1%;
+    font-family: 'Courier New', Courier, monospace;   
+    text-decoration: underline;
+    text-align: center;
+    border-style: double;
+    border-color: yellowgreen;
+}
+.sok{
+    height: 7vw;
+    width: 80%;
+    background-color: rgb(185, 90, 34);
+    font-size: 5vw;
+    margin-top: 1%;
+    font-family: 'Courier New', Courier, monospace; 
+    border-style: double;
+    border-color: yellowgreen;
+    text-align: center;
+}
+.ic{
+    display: flex;
+    justify-content: space-around;
+    margin: 1vw;
+    border-style: double;
+    border-color: yellowgreen;
+}
+
+.resim1 img{
+   height: 30vw;
+}
+.resim2 img{
+    height: 30vw;
+ }
+.yazi1{
+    height: 27vw;
+    width: 80%;
+    background-color: rgb(34, 185, 84);
+    font-size: 2vw;
+    margin-top: 1%;
+    font-family: 'Courier New', Courier, monospace; 
+    border-style: double;
+    border-color: yellowgreen;
+    font-weight: 1000;
+    color:rgb(126, 0, 73);
+}
+.yazi2{
+    margin-top: 1%;
+    height: 30vw;
+    width: 80%;
+    background-color: rgb(34, 117, 185);
+    font-size: 2vw;
+    font-family: 'Courier New', Courier, monospace; 
+    border-style: double;
+    padding-bottom: 1%;
+    color: rgb(0, 37, 44);
+    font-weight: 1000;
+    text-decoration: underline;
+    
+}
+.bottom{
+    margin-top: 2%;
+}
